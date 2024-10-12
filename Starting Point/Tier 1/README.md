@@ -1,0 +1,1 @@
+Here I am using example codes and documentations from various tasks that HTB is providing from the "Starting Point" page. I am doing this to get in touch with hacking and understand cybersecurity better. I hope you can also lkearn from it and I am open for critics
